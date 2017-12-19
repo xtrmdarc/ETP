@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5F4C9759-2D66-49C9-9ED4-8C676A973189}</ProjectGuid>
+    <ProjectGuid>{3D893E0D-448F-46AA-8392-0808CEC6BF79}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <RootNamespace>etp.Droid</RootNamespace>
@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\etp\etp.csproj">
-      <Project>{CD87689F-2D47-4526-AFBB-1576AFE47E74}</Project>
+      <Project>{6D0657F9-21D5-4105-A93D-FD4392DE2349}</Project>
       <Name>etp</Name>
     </ProjectReference>
   </ItemGroup>
