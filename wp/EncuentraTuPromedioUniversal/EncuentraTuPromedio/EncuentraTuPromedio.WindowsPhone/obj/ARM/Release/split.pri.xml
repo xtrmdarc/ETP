@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="43749AAWP.Encuentratupromedio" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="Acerca.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Acerca.xbf">
+				<Candidate type="Path">
+					<Value>Acerca.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConfiguracionCiclo.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/ConfiguracionCiclo.xbf">
+				<Candidate type="Path">
+					<Value>ConfiguracionCiclo.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EdicionCurso.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/EdicionCurso.xbf">
+				<Candidate type="Path">
+					<Value>EdicionCurso.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EdicionNota.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/EdicionNota.xbf">
+				<Candidate type="Path">
+					<Value>EdicionNota.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncuentraTuPromedio.WindowsPhone.xr.xml" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/EncuentraTuPromedio.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>EncuentraTuPromedio.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Feedback.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Feedback.xbf">
+				<Candidate type="Path">
+					<Value>Feedback.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotasPage.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/NotasPage.xbf">
+				<Candidate type="Path">
+					<Value>NotasPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NuevaNota.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/NuevaNota.xbf">
+				<Candidate type="Path">
+					<Value>NuevaNota.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NuevoCurso.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/NuevoCurso.xbf">
+				<Candidate type="Path">
+					<Value>NuevoCurso.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="acerca_curso_aceptar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_curso_aceptar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_curso_aceptar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acerca_curso_agregar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_curso_agregar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_curso_agregar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acerca_curso_rellenar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_curso_rellenar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_curso_rellenar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acerca_nota_agregar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_nota_agregar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_nota_agregar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acerca_nota_rellenar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_nota_rellenar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_nota_rellenar.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="acerca_nota_seleccionar.png" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/Images/acerca_nota_seleccionar.png">
+					<Candidate type="Path">
+						<Value>Images\acerca_nota_seleccionar.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UserControls">
+				<NamedResource name="cursoItemPanel.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/UserControls/cursoItemPanel.xbf">
+					<Candidate type="Path">
+						<Value>UserControls\cursoItemPanel.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CursoListControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/UserControls/CursoListControl.xbf">
+					<Candidate type="Path">
+						<Value>UserControls\CursoListControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NotaListControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/UserControls/NotaListControl.xbf">
+					<Candidate type="Path">
+						<Value>UserControls\NotaListControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinRTXamlToolkit">
+				<NamedResource name="WinRTXamlToolkit.xr.xml" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/WinRTXamlToolkit.xr.xml">
+					<Candidate type="Path">
+						<Value>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="AlternativeFrame">
+						<NamedResource name="AlternativeFrame.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/AlternativeFrame/AlternativeFrame.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="AnimatingContainer">
+						<NamedResource name="AnimatingContainer.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/AnimatingContainer/AnimatingContainer.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="AutoCompleteTextBox">
+						<NamedResource name="AutoCompleteTextBox.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/AutoCompleteTextBox/AutoCompleteTextBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CameraCaptureControl">
+						<NamedResource name="CameraCaptureControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/CameraCaptureControl/CameraCaptureControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CascadingImageControl">
+						<NamedResource name="CascadingImageControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/CascadingImageControl/CascadingImageControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CascadingTextBlock">
+						<NamedResource name="CascadingTextBlock.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/CascadingTextBlock/CascadingTextBlock.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ColorPicker">
+						<NamedResource name="ColorPicker.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ColorPicker/ColorPicker.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CountdownControl">
+						<NamedResource name="CountdownControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/CountdownControl/CountdownControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="CustomGridSplitter">
+						<NamedResource name="CustomGridSplitter.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/CustomGridSplitter/CustomGridSplitter.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="DelayedLoadControl">
+						<NamedResource name="DelayedLoadControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/DelayedLoadControl/DelayedLoadControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="FocusVisualizer">
+						<NamedResource name="FocusVisualizer.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/FocusVisualizer/FocusVisualizer.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="FxContentControl">
+						<NamedResource name="FxContentControl.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/FxContentControl/FxContentControl.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ImageButton">
+						<NamedResource name="ImageButton.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ImageButton/ImageButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ImageToggleButton">
+						<NamedResource name="ImageToggleButton.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ImageToggleButton/ImageToggleButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="InputDialog">
+						<NamedResource name="InputDialog.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/InputDialog/InputDialog.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ListItemButton">
+						<NamedResource name="ListItemButton.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ListItemButton/ListItemButton.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="NumericUpDown">
+						<NamedResource name="NumericUpDown.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/NumericUpDown/NumericUpDown.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ToolStrip">
+						<NamedResource name="ToolStrip.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ToolStrip/ToolStrip.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ToolWindow">
+						<NamedResource name="ToolWindow.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/ToolWindow/ToolWindow.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="TreeView">
+						<NamedResource name="TreeView.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/TreeView/TreeView.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewItem.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewItem.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewMouse.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewMouse.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TreeViewTouch.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/TreeView/TreeViewTouch.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WatermarkPasswordBox">
+						<NamedResource name="WatermarkPasswordBox.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/WatermarkPasswordBox/WatermarkPasswordBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="WatermarkTextBox">
+						<NamedResource name="WatermarkTextBox.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Controls/WatermarkTextBox/WatermarkTextBox.xbf">
+							<Candidate type="Path">
+								<Value>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://43749AAWP.Encuentratupromedio/Files/WinRTXamlToolkit/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>WinRTXamlToolkit\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AgreeAppBarButton" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AgreeAppBarButton">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>agree</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AlertText" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AlertText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Alert</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApprovingGradeValidationInteger" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ApprovingGradeValidationInteger">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Approvig grade must be a positive integer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApprovingGradeValidationMax" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ApprovingGradeValidationMax">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Approving grade must be lower than max. grade</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApprovingGradeValidationMin" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ApprovingGradeValidationMin">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Approving grade must be higher than min. grade</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AproxGradeMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AproxGradeMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Aprox.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AwfulMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AwfulMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Awful</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/BadMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Bad</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CongratsMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CongratsMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Congratulations! you passed the course</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CourseCreditsValidation" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CourseCreditsValidation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Please enter the number of credits</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CourseCreditsValidationInteger" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CourseCreditsValidationInteger">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of credits must be a positive integer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CourseNameValidation" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CourseNameValidation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Please enter the name of the course</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeleteGradeMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DeleteGradeMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You are about to delete a grade ¿Are you sure?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeleteMessage1" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DeleteMessage1">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You are about to delete </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DeleteMessage2" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DeleteMessage2">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value> with its grades. ¿Are you sure?</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GoodMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GoodMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Good</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GradeGradeValidationInteger" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GradeGradeValidationInteger">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value of the grade must be higher than 0.00</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GradePercentageValidation" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GradePercentageValidation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Value of the percentage must be higher than 0.00 and lower than 1.00</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GreatMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GreatMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Great</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MaxGradeValidationInteger" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/MaxGradeValidationInteger">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Max. grade must be a positive integer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MinGradeMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/MinGradeMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You need at least </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MinGradeValidationInteger" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/MinGradeValidationInteger">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Min. grade must be a positive integer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NormalMessage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/NormalMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Normal</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoText" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/NoText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RateMyApp" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/RateMyApp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Thank your for using this app. ¿Do you like it? Rate us 5 stars so we can continue getting better.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResourceFlowDirection" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ResourceFlowDirection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>LeftToRight</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResourceLanguage" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ResourceLanguage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>en-US</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValidationCompleteFields" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ValidationCompleteFields">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You must fill all the fields before continue</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="YesText" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/YesText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Yes</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AboutAppBarButtonABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutAppBarButtonABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>about</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage11R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage11R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select '+' button to add</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage12R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage12R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>a new course</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage21R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage21R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill the following fields with</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage22R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage22R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>the required information</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage31R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage31R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select the check button to</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutCourseMessage32R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutCourseMessage32R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>continue</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage11R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage11R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select the course to add</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage12R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage12R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>a new grade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage21R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage21R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select the '+' button to add </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage22R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage22R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>a new grade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage31R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage31R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill the following fields with</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AboutGradeMessage32R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AboutGradeMessage32R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>the required information</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AddAppBarButtonTextABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AddAppBarButtonTextABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>add</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AgreeAppBarButtonABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AgreeAppBarButtonABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>agree</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AppBarMenuItemCicleConfigurationTextABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AppBarMenuItemCicleConfigurationTextABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>cycle configuration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="AppBarMenuItemCicleConfigurationTextTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/AppBarMenuItemCicleConfigurationTextTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>cycle configuration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ApplicationTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/ApplicationTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>KNOW YOUR GRADES</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationGradeR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationGradeR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>grade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationMaxGradeR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationMaxGradeR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>max.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationMessage1R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationMessage1R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill the followings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationMessage2R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationMessage2R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>fields to make your experience better</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationMinGradeR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationMinGradeR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>min.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationPassGradeR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationPassGradeR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>approving</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CicleConfigurationTipR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CicleConfigurationTipR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Tip: you can change these settings later</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="courses_TextPI">
+				<NamedResource name="Header" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/courses_TextPI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>courses</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="courseTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/courseTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>course</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateAppBarButtonABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateAppBarButtonABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>create</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCourseMessage1R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCourseMessage1R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Enter the </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCourseMessage2R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCourseMessage2R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>name </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCourseMessage3R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCourseMessage3R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>and the number of </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCourseMessage4R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCourseMessage4R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>credits </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCourseMessage5R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCourseMessage5R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>of your course.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateCoursePageTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateCoursePageTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>CREATE COURSE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateGradeMessage1R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateGradeMessage1R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>, </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateGradeMessage2R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateGradeMessage2R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>grade </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateGradeMessage3R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateGradeMessage3R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>and </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateGradeMessage4R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateGradeMessage4R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>percentage</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreateGradePageTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreateGradePageTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>CREATE GRADE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CreditsTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/CreditsTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Credits</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DashboardCreditsTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DashboardCreditsTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>CREDITS</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DashboardGradesTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DashboardGradesTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>GRADES</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DashboardMainTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DashboardMainTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Weighted Average</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DeleteContextMenuMFI">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/DeleteContextMenuMFI/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="EditContextMenuMFI">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/EditContextMenuMFI/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Edit</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="EditCourseMessage1R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/EditCourseMessage1R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Edit the </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="EditCoursePageTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/EditCoursePageTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>EDIT COURSE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="EditGradePageTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/EditGradePageTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>EDIT GRADE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackCommentTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/FeedbackCommentTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Comment</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackMessageTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/FeedbackMessageTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Is something going wrong ? Do you think we can improve or add new features? Tell us your opinion.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackTextABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/FeedbackTextABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>feedback</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FeedbackTextTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/FeedbackTextTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>feedback</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GradesTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GradesTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Grades</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="grades_TextPI">
+				<NamedResource name="Header" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/grades_TextPI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>grades</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="GradeTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/GradeTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Grade</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MainPagePivotItem1PI">
+				<NamedResource name="Header" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/MainPagePivotItem1PI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>your courses</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MainPagePivotItem2PI">
+				<NamedResource name="Header" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/MainPagePivotItem2PI/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>dashboard</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="NameTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/NameTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="newGradeTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/newGradeTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>new</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="newTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/newTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>new</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PercentageTextR">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/PercentageTextR/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Percentage</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PopUpCicleConfigurationMessage1R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/PopUpCicleConfigurationMessage1R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Before we continue, you need to fill the following </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PopUpCicleConfigurationMessage2R">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/PopUpCicleConfigurationMessage2R/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>fields to make your experience better</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PopUpCicleConfigurationTitleTBK">
+				<NamedResource name="Text" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/PopUpCicleConfigurationTitleTBK/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Just one second!</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="RoundedPromTS">
+				<NamedResource name="Header" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/RoundedPromTS/Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rounded Average</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OffContent" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/RoundedPromTS/OffContent">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OnContent" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/RoundedPromTS/OnContent">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SendFeedbackAppBarButtonABB">
+				<NamedResource name="Label" uri="ms-resource://43749AAWP.Encuentratupromedio/Resources/SendFeedbackAppBarButtonABB/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>send</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

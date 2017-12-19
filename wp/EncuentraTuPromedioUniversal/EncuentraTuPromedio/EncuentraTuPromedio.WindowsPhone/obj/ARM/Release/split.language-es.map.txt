@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es-es"
+
+[Files]
+"C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\obj\ARM\Release\split.language-es.pri"			"resources.pri"

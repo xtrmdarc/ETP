@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutAppBarButtonABB.Label" xml:space="preserve">
+    <value>about</value>
+  </data>
+  <data name="AboutCourseMessage11R.Text" xml:space="preserve">
+    <value>Select '+' button to add</value>
+  </data>
+  <data name="AboutCourseMessage12R.Text" xml:space="preserve">
+    <value>a new course</value>
+  </data>
+  <data name="AboutCourseMessage21R.Text" xml:space="preserve">
+    <value>Fill the following fields with</value>
+  </data>
+  <data name="AboutCourseMessage22R.Text" xml:space="preserve">
+    <value>the required information</value>
+  </data>
+  <data name="AboutCourseMessage31R.Text" xml:space="preserve">
+    <value>Select the check button to</value>
+  </data>
+  <data name="AboutCourseMessage32R.Text" xml:space="preserve">
+    <value>continue</value>
+  </data>
+  <data name="AboutGradeMessage11R.Text" xml:space="preserve">
+    <value>Select the course to add</value>
+  </data>
+  <data name="AboutGradeMessage12R.Text" xml:space="preserve">
+    <value>a new grade</value>
+  </data>
+  <data name="AboutGradeMessage21R.Text" xml:space="preserve">
+    <value>Select the '+' button to add </value>
+  </data>
+  <data name="AboutGradeMessage22R.Text" xml:space="preserve">
+    <value>a new grade</value>
+  </data>
+  <data name="AboutGradeMessage31R.Text" xml:space="preserve">
+    <value>Fill the following fields with</value>
+  </data>
+  <data name="AboutGradeMessage32R.Text" xml:space="preserve">
+    <value>the required information</value>
+  </data>
+  <data name="AddAppBarButtonTextABB.Label" xml:space="preserve">
+    <value>add</value>
+  </data>
+  <data name="AgreeAppBarButtonABB.Label" xml:space="preserve">
+    <value>agree</value>
+  </data>
+  <data name="AlertText" xml:space="preserve">
+    <value>Alert</value>
+  </data>
+  <data name="AppBarMenuItemCicleConfigurationTextABB.Label" xml:space="preserve">
+    <value>cycle configuration</value>
+  </data>
+  <data name="ApplicationTitleTBK.Text" xml:space="preserve">
+    <value>KNOW YOUR GRADES</value>
+  </data>
+  <data name="ApprovingGradeValidationInteger" xml:space="preserve">
+    <value>Approvig grade must be a positive integer</value>
+  </data>
+  <data name="ApprovingGradeValidationMax" xml:space="preserve">
+    <value>Approving grade must be lower than max. grade</value>
+  </data>
+  <data name="ApprovingGradeValidationMin" xml:space="preserve">
+    <value>Approving grade must be higher than min. grade</value>
+  </data>
+  <data name="AproxGradeMessage" xml:space="preserve">
+    <value>Aprox.</value>
+  </data>
+  <data name="AwfulMessage" xml:space="preserve">
+    <value>Awful</value>
+  </data>
+  <data name="BadMessage" xml:space="preserve">
+    <value>Bad</value>
+  </data>
+  <data name="CicleConfigurationGradeR.Text" xml:space="preserve">
+    <value>grade</value>
+  </data>
+  <data name="CicleConfigurationMaxGradeR.Text" xml:space="preserve">
+    <value>max.</value>
+  </data>
+  <data name="CicleConfigurationMessage1R.Text" xml:space="preserve">
+    <value>Fill the followings</value>
+  </data>
+  <data name="CicleConfigurationMessage2R.Text" xml:space="preserve">
+    <value>fields to make your experience better</value>
+  </data>
+  <data name="CicleConfigurationMinGradeR.Text" xml:space="preserve">
+    <value>min.</value>
+  </data>
+  <data name="CicleConfigurationPassGradeR.Text" xml:space="preserve">
+    <value>approving</value>
+  </data>
+  <data name="CongratsMessage" xml:space="preserve">
+    <value>Congratulations! you passed the course</value>
+  </data>
+  <data name="CourseCreditsValidation" xml:space="preserve">
+    <value>Please enter the number of credits</value>
+  </data>
+  <data name="CourseCreditsValidationInteger" xml:space="preserve">
+    <value>The number of credits must be a positive integer</value>
+  </data>
+  <data name="CourseNameValidation" xml:space="preserve">
+    <value>Please enter the name of the course</value>
+  </data>
+  <data name="courses_TextPI.header" xml:space="preserve">
+    <value>courses</value>
+  </data>
+  <data name="courseTextR.Text" xml:space="preserve">
+    <value>course</value>
+  </data>
+  <data name="CreateAppBarButtonABB.Label" xml:space="preserve">
+    <value>create</value>
+  </data>
+  <data name="CreateCourseMessage1R.Text" xml:space="preserve">
+    <value>Enter the </value>
+  </data>
+  <data name="CreateCourseMessage2R.Text" xml:space="preserve">
+    <value>name </value>
+  </data>
+  <data name="CreateCourseMessage3R.Text" xml:space="preserve">
+    <value>and the number of </value>
+  </data>
+  <data name="CreateCourseMessage4R.Text" xml:space="preserve">
+    <value>credits </value>
+  </data>
+  <data name="CreateCourseMessage5R.Text" xml:space="preserve">
+    <value>of your course.</value>
+  </data>
+  <data name="CreateCoursePageTitleTBK.Text" xml:space="preserve">
+    <value>CREATE COURSE</value>
+  </data>
+  <data name="CreateGradeMessage1R.Text" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="CreateGradeMessage2R.Text" xml:space="preserve">
+    <value>grade </value>
+  </data>
+  <data name="CreateGradeMessage3R.Text" xml:space="preserve">
+    <value>and </value>
+  </data>
+  <data name="CreateGradeMessage4R.Text" xml:space="preserve">
+    <value>percentage</value>
+  </data>
+  <data name="CreateGradePageTitleTBK.Text" xml:space="preserve">
+    <value>CREATE GRADE</value>
+  </data>
+  <data name="CreditsTextR.Text" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="DashboardCreditsTextR.Text" xml:space="preserve">
+    <value>CREDITS</value>
+  </data>
+  <data name="DashboardGradesTextR.Text" xml:space="preserve">
+    <value>GRADES</value>
+  </data>
+  <data name="DashboardMainTitleTBK.Text" xml:space="preserve">
+    <value>Weighted Average</value>
+  </data>
+  <data name="DeleteContextMenuMFI.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DeleteGradeMessage" xml:space="preserve">
+    <value>You are about to delete a grade ¿Are you sure?</value>
+  </data>
+  <data name="DeleteMessage1" xml:space="preserve">
+    <value>You are about to delete </value>
+  </data>
+  <data name="DeleteMessage2" xml:space="preserve">
+    <value> with its grades. ¿Are you sure?</value>
+  </data>
+  <data name="EditContextMenuMFI.Text" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="EditCourseMessage1R.Text" xml:space="preserve">
+    <value>Edit the </value>
+  </data>
+  <data name="EditCoursePageTitleTBK.Text" xml:space="preserve">
+    <value>EDIT COURSE</value>
+  </data>
+  <data name="EditGradePageTitleTBK.Text" xml:space="preserve">
+    <value>EDIT GRADE</value>
+  </data>
+  <data name="FeedbackCommentTBK.Text" xml:space="preserve">
+    <value>Comment</value>
+  </data>
+  <data name="FeedbackMessageTBK.Text" xml:space="preserve">
+    <value>Is something going wrong ? Do you think we can improve or add new features? Tell us your opinion.</value>
+  </data>
+  <data name="FeedbackTextABB.Label" xml:space="preserve">
+    <value>feedback</value>
+  </data>
+  <data name="GoodMessage" xml:space="preserve">
+    <value>Good</value>
+  </data>
+  <data name="GradeGradeValidationInteger" xml:space="preserve">
+    <value>Value of the grade must be higher than 0.00</value>
+  </data>
+  <data name="GradePercentageValidation" xml:space="preserve">
+    <value>Value of the percentage must be higher than 0.00 and lower than 1.00</value>
+  </data>
+  <data name="GradesTextR.Text" xml:space="preserve">
+    <value>Grades</value>
+  </data>
+  <data name="grades_TextPI.Header" xml:space="preserve">
+    <value>grades</value>
+  </data>
+  <data name="GradeTextR.Text" xml:space="preserve">
+    <value>Grade</value>
+  </data>
+  <data name="GreatMessage" xml:space="preserve">
+    <value>Great</value>
+  </data>
+  <data name="MainPagePivotItem1PI.Header" xml:space="preserve">
+    <value>your courses</value>
+  </data>
+  <data name="MainPagePivotItem2PI.Header" xml:space="preserve">
+    <value>dashboard</value>
+  </data>
+  <data name="MaxGradeValidationInteger" xml:space="preserve">
+    <value>Max. grade must be a positive integer</value>
+  </data>
+  <data name="MinGradeMessage" xml:space="preserve">
+    <value>You need at least </value>
+  </data>
+  <data name="MinGradeValidationInteger" xml:space="preserve">
+    <value>Min. grade must be a positive integer</value>
+  </data>
+  <data name="NameTextR.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="newTextR.Text" xml:space="preserve">
+    <value>new</value>
+  </data>
+  <data name="NormalMessage" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="PercentageTextR.Text" xml:space="preserve">
+    <value>Percentage</value>
+  </data>
+  <data name="PopUpCicleConfigurationMessage1R.Text" xml:space="preserve">
+    <value>Before we continue, you need to fill the following </value>
+  </data>
+  <data name="PopUpCicleConfigurationMessage2R.Text" xml:space="preserve">
+    <value>fields to make your experience better</value>
+  </data>
+  <data name="PopUpCicleConfigurationTitleTBK.Text" xml:space="preserve">
+    <value>Just one second!</value>
+  </data>
+  <data name="RateMyApp" xml:space="preserve">
+    <value>Thank your for using this app. ¿Do you like it? Rate us 5 stars so we can continue getting better.</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="SendFeedbackAppBarButtonABB.Label" xml:space="preserve">
+    <value>send</value>
+  </data>
+  <data name="ValidationCompleteFields" xml:space="preserve">
+    <value>You must fill all the fields before continue</value>
+  </data>
+  <data name="CicleConfigurationTipR.Text" xml:space="preserve">
+    <value>Tip: you can change these settings later</value>
+  </data>
+  <data name="newGradeTextR.Text" xml:space="preserve">
+    <value>new</value>
+  </data>
+  <data name="NoText" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="YesText" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="AppBarMenuItemCicleConfigurationTextTBK.Text" xml:space="preserve">
+    <value>cycle configuration</value>
+  </data>
+  <data name="FeedbackTextTBK.Text" xml:space="preserve">
+    <value>feedback</value>
+  </data>
+  <data name="AgreeAppBarButton" xml:space="preserve">
+    <value>agree</value>
+  </data>
+  <data name="RoundedPromTS.Header" xml:space="preserve">
+    <value>Rounded Average</value>
+  </data>
+  <data name="RoundedPromTS.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="RoundedPromTS.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+</root>

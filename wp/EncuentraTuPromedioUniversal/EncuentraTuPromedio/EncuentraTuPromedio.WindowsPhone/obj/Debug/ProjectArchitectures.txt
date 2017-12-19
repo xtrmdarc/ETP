@@ -1,0 +1,1 @@
+c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\EncuentraTuPromedio.WindowsPhone.csproj;neutral

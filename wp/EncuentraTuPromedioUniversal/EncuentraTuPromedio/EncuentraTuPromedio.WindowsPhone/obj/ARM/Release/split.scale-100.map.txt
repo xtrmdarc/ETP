@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\obj\ARM\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

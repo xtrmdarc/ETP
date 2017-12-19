@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\diego reyes\documents\visual studio 2013\projects\encuentratupromediouniversal\encuentratupromedio\encuentratupromedio.windowsphone\obj\arm\release\intermediatexaml\encuentratupromedio.windowsphone.exe" HashGuid="e148dd24-fe27-e2ee-ec4c-2465c2bf69d7" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\diego reyes\documents\visual studio 2013\projects\encuentratupromediouniversal\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

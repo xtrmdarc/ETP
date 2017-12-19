@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIEGO</Machine>
+    <WindowsUser>Diego Reyes</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8527d321-d326-4890-b396-c645fd28afad</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DE44D88BBDE1AD796A43E45A17928A39C9A5281F369247AE478D65BC93633AFD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8527d321-d326-4890-b396-c645fd28afad_1.0.0.0_neutral__xgcmxv0p9yzhp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8527d321-d326-4890-b396-c645fd28afad_xgcmxv0p9yzhp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8527d321-d326-4890-b396-c645fd28afad</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Diego Reyes</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-05T19:55:39.409</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\EncuentraTuPromedio.Windows.exe">
+      <PackagePath>EncuentraTuPromedio.Windows.exe</PackagePath>
+      <Modified>2015-02-05T19:55:37.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-05T19:55:37.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-05T19:55:37.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\EncuentraTuPromedio.Windows.xr.xml">
+      <PackagePath>EncuentraTuPromedio.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-05T19:55:36.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-05T19:55:38.246</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

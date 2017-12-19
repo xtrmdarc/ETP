@@ -1,0 +1,1 @@
+c:\users\diego reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\EncuentraTuPromedio.Windows.csproj;neutral

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIEGO</Machine>
+    <WindowsUser>Diego Reyes</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>8527d321-d326-4890-b396-c645fd28afad</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0E1E13C61B45A2EA267F6306F12C79EAAAF55A110FB0F61802417CF50BA14ED1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8527d321-d326-4890-b396-c645fd28afad_1.0.0.0_x64__xgcmxv0p9yzhp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8527d321-d326-4890-b396-c645fd28afad_xgcmxv0p9yzhp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8527d321-d326-4890-b396-c645fd28afad</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Diego Reyes</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-25T23:54:51.992</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\EncuentraTuPromedio.Windows.exe">
+      <PackagePath>EncuentraTuPromedio.Windows.exe</PackagePath>
+      <Modified>2015-02-25T23:54:51.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2015-02-21T00:50:19.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.1\Redist\Debug\x64\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-02-06T15:40:18.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_curso_aceptar.png">
+      <PackagePath>Images\acerca_curso_aceptar.png</PackagePath>
+      <Modified>2014-12-16T01:17:57.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_curso_agregar.png">
+      <PackagePath>Images\acerca_curso_agregar.png</PackagePath>
+      <Modified>2014-12-16T00:34:37.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_curso_rellenar.png">
+      <PackagePath>Images\acerca_curso_rellenar.png</PackagePath>
+      <Modified>2014-12-16T00:54:05.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_nota_agregar.png">
+      <PackagePath>Images\acerca_nota_agregar.png</PackagePath>
+      <Modified>2014-12-16T02:07:23.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_nota_rellenar.png">
+      <PackagePath>Images\acerca_nota_rellenar.png</PackagePath>
+      <Modified>2014-12-16T02:01:42.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Shared\Images\acerca_nota_seleccionar.png">
+      <PackagePath>Images\acerca_nota_seleccionar.png</PackagePath>
+      <Modified>2014-12-16T01:53:55.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-25T23:54:50.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-25T23:54:50.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\EncuentraTuPromedio.Windows.xr.xml">
+      <PackagePath>EncuentraTuPromedio.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-10T20:41:43.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeView.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\packages\WinRTXamlToolkit.1.4.4.1\lib\netcore45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+      <Modified>2015-02-21T00:50:19.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego Reyes\documents\visual studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-25T23:54:51.601</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

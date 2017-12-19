@@ -1,0 +1,1 @@
+C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.Windows\ETP.Windows.csproj;x86

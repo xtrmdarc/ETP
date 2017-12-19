@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\bin\ARM\Release\ETP.WindowsPhone_2.5.0.2_Bundle\ETP.WindowsPhone_2.5.0.2_ARM.appx
+SymbolPackage=C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\AppPackages\ETP.WindowsPhone_2.5.0.2_Test\ETP.WindowsPhone_2.5.0.2_ARM.appxsym
+ResourcePack=C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\bin\ARM\Release\ETP.WindowsPhone_2.5.0.2_Bundle\ETP.WindowsPhone_2.5.0.2_language-es.appx
+ResourcePack=C:\Users\Diego Reyes\Documents\Visual Studio 2013\Projects\EncuentraTuPromedioUniversal\EncuentraTuPromedio\EncuentraTuPromedio.WindowsPhone\bin\ARM\Release\ETP.WindowsPhone_2.5.0.2_Bundle\ETP.WindowsPhone_2.5.0.2_scale-100.appx

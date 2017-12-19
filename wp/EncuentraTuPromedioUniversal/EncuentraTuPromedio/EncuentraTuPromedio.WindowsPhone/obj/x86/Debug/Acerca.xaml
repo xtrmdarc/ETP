@@ -1,0 +1,185 @@
+﻿<Page
+    x:Class="EncuentraTuPromedio.Acerca"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EncuentraTuPromedio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <Pivot>
+            <Pivot.TitleTemplate>
+                <DataTemplate>
+                    <TextBlock x:Uid="ApplicationTitleTBK" FontWeight="Bold" Width="320" />
+                </DataTemplate>
+            </Pivot.TitleTemplate>
+            <Pivot.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="FontSize" Value="17"/>
+                </Style>
+            </Pivot.Resources>
+            <!--Pivot item one-->
+            <PivotItem x:Uid="courses_TextPI" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0*"/>
+                        <RowDefinition Height="170*"/>
+                        <RowDefinition Height="265*"/>
+                        <RowDefinition Height="168*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="1" Height="155" VerticalAlignment="Top" HorizontalAlignment="Left" Width="456" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="11*"/>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="0*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso1_curso" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}"  />
+                            <TextBlock Text="1" TextAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0">
+                            <Run x:Uid="AboutCourseMessage11R"/>
+                            <LineBreak/>
+                            <Run x:Uid="AboutCourseMessage12R" />
+                        </TextBlock>
+                        <Image Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Source="/Images/acerca_curso_agregar.png" Margin="58,1,70.833,10"/>
+                    </Grid>
+                    <Grid Grid.Row="2" HorizontalAlignment="Left" Width="456" Height="230" VerticalAlignment="Top" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="55*"/>
+                            <RowDefinition Height="116*"/>
+                            <RowDefinition Height="59*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso2_curso" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58"  />
+                            <TextBlock Text="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,14,0,13" Width="58"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="388">
+                            <Run x:Uid="AboutCourseMessage21R" />
+                            <LineBreak/>
+                            <Run x:Uid="AboutCourseMessage22R" />
+                        </TextBlock>
+                        <Image Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Source="/Images/acerca_curso_rellenar.png" Grid.RowSpan="2" Height="175" VerticalAlignment="Top" Margin="58,0,85.833,0"/>
+                    </Grid>
+                    <Grid Grid.Row="3" HorizontalAlignment="Left" Width="456" Height="155" VerticalAlignment="Top" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="60*"/>
+                            <RowDefinition Height="86*"/>
+                            <RowDefinition Height="9*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso3_curso" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58"  />
+                            <TextBlock Text="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,14,0,13" Width="58"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="388">
+                            <Run x:Uid="AboutCourseMessage31R" />
+                            <LineBreak/>
+                            <Run x:Uid="AboutCourseMessage32R" />
+                        </TextBlock>
+                        <Image Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Source="/Images/acerca_curso_aceptar.png"  VerticalAlignment="Top" HorizontalAlignment="Left" Height="85" Width="304" Margin="58,0,0,0"/>
+                    </Grid>
+                </Grid>
+            </PivotItem>
+
+            <!--Pivot item two-->
+            <PivotItem x:Uid="grades_TextPI">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0*"/>
+                        <RowDefinition Height="170*"/>
+                        <RowDefinition Height="160*"/>
+                        <RowDefinition Height="273*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="1" Height="155" VerticalAlignment="Top" HorizontalAlignment="Left" Width="456" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="11*"/>
+                            <RowDefinition Height="20*"/>
+                            <RowDefinition Height="0*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso1_nota" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}"  />
+                            <TextBlock Text="1" TextAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0">
+                            <Run x:Uid="AboutGradeMessage11R"/>
+                            <LineBreak/>
+                            <Run x:Uid="AboutGradeMessage12R" />
+                        </TextBlock>
+                        <Image Grid.Row="1" Source="/Images/acerca_nota_seleccionar.png" Margin="58,0,89.833,1" Grid.ColumnSpan="2"/>
+                    </Grid>
+                    <Grid Grid.Row="3" HorizontalAlignment="Left" Width="456" Height="230" VerticalAlignment="Top" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="55*"/>
+                            <RowDefinition Height="116*"/>
+                            <RowDefinition Height="59*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso2_nota" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58"  />
+                            <TextBlock Text="3" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,14,0,13" Width="58"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="388">
+                            <Run x:Uid="AboutGradeMessage31R" />
+                            <LineBreak/>
+                            <Run x:Uid="AboutGradeMessage32R" />
+                        </TextBlock>
+                        <Image Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Source="/Images/acerca_nota_rellenar.png" Grid.RowSpan="2" Height="175" VerticalAlignment="Top" Margin="58,0,93.833,0"/>
+                    </Grid>
+                    <Grid Grid.Row="2" HorizontalAlignment="Left" Width="456" Height="155" VerticalAlignment="Top" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="29*"/>
+                            <ColumnDefinition Width="199*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="60*"/>
+                            <RowDefinition Height="86*"/>
+                            <RowDefinition Height="9*"/>
+                        </Grid.RowDefinitions>
+                        <Grid x:Name="circulo_paso3_nota" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58" >
+                            <Ellipse Fill="{StaticResource PhoneAccentBrush}" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="58"  />
+                            <TextBlock Text="2" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,14,0,13" Width="58"/>
+                        </Grid>
+                        <TextBlock Grid.Column="1" Margin="10,0,0,0" Height="54" VerticalAlignment="Top" HorizontalAlignment="Left" Width="388">
+                            <Run x:Uid="AboutGradeMessage21R" />
+                            <LineBreak/>
+                            <Run x:Uid="AboutGradeMessage22R"/>
+                        </TextBlock>
+                        <Image Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Source="/Images/acerca_nota_agregar.png"  VerticalAlignment="Top" Height="85" Margin="58,0,0,0" HorizontalAlignment="Left" Width="307"/>
+                    </Grid>
+                </Grid>
+            </PivotItem>
+
+            <!--<phone:PivotItem Header="ciclo">
+                <Grid/>
+            </phone:PivotItem>-->
+        </Pivot>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' x:Uid="AgreeAppBarButtonABB" x:Name="btnbar_acepta" Icon="Accept"                            />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

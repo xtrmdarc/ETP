@@ -1,0 +1,75 @@
+﻿<Page
+    x:Class="EncuentraTuPromedio.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EncuentraTuPromedio"
+    xmlns:uclocal="using:EncuentraTuPromedio.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+    </Page.Resources>
+    
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="ENCUENTRA TU PROMEDIO" FontSize="32" FontWeight="ExtraBold"/>
+        <ScrollViewer Grid.Row="2" Grid.Column="1" VerticalScrollMode="Disabled"  VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Visible" HorizontalScrollMode="Enabled" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1.2*"/>
+                        <RowDefinition Height="13*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="20*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="1" Text="tus cursos" FontSize="45" FontWeight="Thin"/>
+                    <ListView x:Name="lvcursos" Grid.Row="1" Grid.Column="1">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <uclocal:CursoListControl/>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1.2*"/>
+                        <RowDefinition Height="13*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="20*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="panel" FontSize="45" Grid.Column="1" FontWeight="Thin"/>
+                    <ListView x:Name="gvcursos" Grid.Row="1" Grid.Column="1">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <uclocal:cursoItemPanel Margin="4.5" />
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+
+</Page>

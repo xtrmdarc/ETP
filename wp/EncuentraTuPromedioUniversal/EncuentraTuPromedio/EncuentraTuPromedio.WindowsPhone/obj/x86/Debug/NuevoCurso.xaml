@@ -1,0 +1,61 @@
+﻿<Page
+    x:Class="EncuentraTuPromedio.NuevoCurso"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EncuentraTuPromedio"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.Resources>
+
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="22"/>
+            </Style>
+        </Grid.Resources>
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,20">
+            <TextBlock x:Uid="CreateCoursePageTitleTBK" Padding="0,4,0,0" VerticalAlignment="Center" Margin="9,0,0,0"  Height="38" FontWeight="Bold" Text=""/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Rectangle Fill="{StaticResource PhoneAccentBrush}" HorizontalAlignment="Left" Height="112" Margin="8,65,0,0" VerticalAlignment="Top" Width="115"/>
+            <TextBlock HorizontalAlignment="Left" Margin="8,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="57" Width="417" FontSize="19" Foreground="{StaticResource PhoneMidBrush}"> 
+            	<Run x:Uid="CreateCourseMessage1R" />
+            	<Run x:Uid="CreateCourseMessage2R" Foreground="{StaticResource PhoneAccentBrush}"/>
+            	<Run x:Uid="CreateCourseMessage3R"/>
+                <LineBreak/>
+                <Run x:Uid="CreateCourseMessage4R" Foreground="{StaticResource PhoneAccentBrush}"/>
+                <Run x:Uid="CreateCourseMessage5R"/>
+            </TextBlock>
+            <TextBlock Foreground="White" HorizontalAlignment="Left" Margin="13,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="92" FontSize="20"> 
+            	<Run x:Uid="newTextR"/>
+            	<LineBreak/>
+            	<Run x:Uid="courseTextR"/>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="18" Margin="131,83,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Foreground="{StaticResource PhoneMidBrush}">
+                <Run x:Uid="NameTextR"/>
+                <Run Text=":"/>
+            </TextBlock>
+            <TextBox x:Name="nuevoCursoNombre" HorizontalAlignment="Left" Height="35" Margin="213,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" />
+            <TextBlock HorizontalAlignment="Left" FontSize="18" Margin="133,134,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Foreground="{ThemeResource PhoneMidBrush}">
+                <Run x:Uid="CreditsTextR" />
+                <Run Text=":"/>
+            </TextBlock>
+            <TextBox x:Name="puNuevoCurso_creditos_txtb"  InputScope="Number" HorizontalAlignment="Left"  Height="35" Margin="213,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' x:Name="btnbar_creaCurso" x:Uid="CreateAppBarButtonABB" Icon="Accept"                               />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
