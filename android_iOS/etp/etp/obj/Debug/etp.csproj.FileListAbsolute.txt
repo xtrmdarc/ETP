@@ -1,0 +1,5 @@
+/Users/diegoreyes/Documents/Desarrollo/ETP/android_iOS/etp/etp/bin/Debug/etp.dll
+/Users/diegoreyes/Documents/Desarrollo/ETP/android_iOS/etp/etp/bin/Debug/etp.pdb
+/Users/diegoreyes/Documents/Desarrollo/ETP/android_iOS/etp/etp/obj/Debug/etp.csproj.CoreCompileInputs.cache
+/Users/diegoreyes/Documents/Desarrollo/ETP/android_iOS/etp/etp/obj/Debug/etp.dll
+/Users/diegoreyes/Documents/Desarrollo/ETP/android_iOS/etp/etp/obj/Debug/etp.pdb

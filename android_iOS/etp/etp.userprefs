@@ -1,26 +1,13 @@
-﻿<Properties StartupConfiguration="{CA5AA65C-D4A3-46CF-AD22-458F247C7816}|Default">
+﻿<Properties StartupConfiguration="{3D893E0D-448F-46AA-8392-0808CEC6BF79}|Default">
   <MonoDevelop.Ide.ItemProperties.etp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2D359FC5-E562-4752-9F35-418A618D97CB">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.etp.iOS>
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="etp" expanded="True">
-            <Node name="etp" expanded="True">
-              <Node name="GettingStarted" selected="True" />
-            </Node>
-            <Node name="etp.Droid" expanded="True" />
-            <Node name="etp.iOS" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.etp.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
 </Properties>

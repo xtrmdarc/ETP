@@ -1,0 +1,4 @@
+etp.Droid.MainActivity, etp.Droid;md56b8c5521078021804fe49d3a118b1221.MainActivity
+etp.Droid.MainActivity, etp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56b8c5521078021804fe49d3a118b1221.MainActivity
+etp.Droid.MainActivity;md56b8c5521078021804fe49d3a118b1221.MainActivity
+etp.droid.MainActivity;md56b8c5521078021804fe49d3a118b1221.MainActivity
