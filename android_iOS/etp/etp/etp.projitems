@@ -9,6 +9,7 @@
     <Import_RootNamespace>etp</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Model.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
   </ItemGroup>
 </Project>
